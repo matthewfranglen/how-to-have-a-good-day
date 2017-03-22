@@ -1,7 +1,6 @@
 {
   "name": "how-to-have-a-good-day",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "Matthew Franglen <matthew@franglen.org>",
   "license": "MIT",
   "dependencies": {
