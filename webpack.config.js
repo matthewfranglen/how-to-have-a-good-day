@@ -6,13 +6,16 @@ module.exports = {
   devtool: 'source-map',
   entry: {
     app: [
-      path.resolve(__dirname, 'src/index.js'),
+      path.resolve(__dirname, 'src/index.jsx'),
       path.resolve(__dirname, 'css/style.css'),
     ],
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js',
+  },
+  resolve: {
+    extensions: ['.js', '.jsx'],
   },
   plugins: [
     new HtmlWebpackPlugin({
