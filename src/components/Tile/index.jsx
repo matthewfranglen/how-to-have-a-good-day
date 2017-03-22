@@ -1,7 +1,11 @@
 import React, { PropTypes } from 'react';
 
 const Tile = props => (
-  <img src={props.image} alt={props.text} className="tile" />
+  <div className="tile" style={{ backgroundImage: `url(${props.image})` }}>
+    <p className="text">
+      {props.text}
+    </p>
+  </div>
 );
 
 Tile.propTypes = {

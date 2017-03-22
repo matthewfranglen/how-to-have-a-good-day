@@ -2,9 +2,7 @@ import React, { PropTypes } from 'react';
 import Tile from '../../components/Tile';
 
 const Home = props => (
-  <div className="home">
-    <Tile image={props.image} text={props.text} />
-  </div>
+  <Tile image={props.image} text={props.text} />
 );
 
 Home.propTypes = {
