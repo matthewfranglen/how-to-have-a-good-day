@@ -1,91 +1,91 @@
 {
   "morning": [
     {
-      "image": "set-your-intentions.png",
+      "image": "static/morning.jpg",
       "text": "set your intentions"
     },
     {
-      "image": "visualize-the-ideal.png",
+      "image": "static/morning.jpg",
       "text": "visualize the ideal"
     },
     {
-      "image": "plan-a-peak.png",
+      "image": "static/morning.jpg",
       "text": "plan a peak"
     }
   ],
   "starting": [
     {
-      "image": "batch-your-tasks.png",
+      "image": "static/starting.jpg",
       "text": "batch your tasks"
     },
     {
-      "image": "prime-yourself.png",
+      "image": "static/starting.jpg",
       "text": "prime yourself"
     },
     {
-      "image": "maximize-your-motivation.png",
+      "image": "static/starting.jpg",
       "text": "maximize your motivation"
     },
     {
-      "image": "start-on-a-strong-footing.png",
+      "image": "static/starting.jpg",
       "text": "start on a strong footing"
     },
     {
-      "image": "get-unstuck.png",
+      "image": "static/starting.jpg",
       "text": "get unstuck"
     }
   ],
   "day": [
     {
-      "image": "set-the-tone.png",
+      "image": "static/day.jpg",
       "text": "set the tone"
     },
     {
-      "image": "express-random-appreciation.png",
+      "image": "static/day.jpg",
       "text": "express random appreciation"
     },
     {
-      "image": "protect-your-thinking-time.png",
+      "image": "static/day.jpg",
       "text": "protect your thinking time"
     },
     {
-      "image": "assume-good-person-bad-circumstances.png",
+      "image": "static/day.jpg",
       "text": "assume good person bad circumstances"
     },
     {
-      "image": "borrow-a-good-mood.png",
+      "image": "static/day.jpg",
       "text": "borrow a good mood"
     },
     {
-      "image": "label-any-frustrations.png",
+      "image": "static/day.jpg",
       "text": "label any frustrations"
     },
     {
-      "image": "keep-your-eyes-on-the-prize.png",
+      "image": "static/day.jpg",
       "text": "keep your eyes on the prize"
     },
     {
-      "image": "refresh-and-reboot.png",
+      "image": "static/day.jpg",
       "text": "refresh and reboot"
     }
   ],
   "lunch": [
     {
-      "image": "connect-with-someone.png",
+      "image": "static/lunch.jpg",
       "text": "connect with someone"
     },
     {
-      "image": "do-some-exercise.png",
+      "image": "static/lunch.jpg",
       "text": "do some exercise"
     }
   ],
   "evening": [
     {
-      "image": "end-on-a-high-note.png",
+      "image": "static/evening.jpg",
       "text": "end on a high note"
     },
     {
-      "image": "sleep-the-good-sleep.png",
+      "image": "static/evening.jpg",
       "text": "sleep the good sleep"
     }
   ]
