@@ -1,0 +1,92 @@
+{
+  "morning": [
+    {
+      "image": "set-your-intentions.png",
+      "text": "set your intentions"
+    },
+    {
+      "image": "visualize-the-ideal.png",
+      "text": "visualize the ideal"
+    },
+    {
+      "image": "plan-a-peak.png",
+      "text": "plan a peak"
+    }
+  ],
+  "starting": [
+    {
+      "image": "batch-your-tasks.png",
+      "text": "batch your tasks"
+    },
+    {
+      "image": "prime-yourself.png",
+      "text": "prime yourself"
+    },
+    {
+      "image": "maximize-your-motivation.png",
+      "text": "maximize your motivation"
+    },
+    {
+      "image": "start-on-a-strong-footing.png",
+      "text": "start on a strong footing"
+    },
+    {
+      "image": "get-unstuck.png",
+      "text": "get unstuck"
+    }
+  ],
+  "day": [
+    {
+      "image": "set-the-tone.png",
+      "text": "set the tone"
+    },
+    {
+      "image": "express-random-appreciation.png",
+      "text": "express random appreciation"
+    },
+    {
+      "image": "protect-your-thinking-time.png",
+      "text": "protect your thinking time"
+    },
+    {
+      "image": "assume-good-person-bad-circumstances.png",
+      "text": "assume good person bad circumstances"
+    },
+    {
+      "image": "borrow-a-good-mood.png",
+      "text": "borrow a good mood"
+    },
+    {
+      "image": "label-any-frustrations.png",
+      "text": "label any frustrations"
+    },
+    {
+      "image": "keep-your-eyes-on-the-prize.png",
+      "text": "keep your eyes on the prize"
+    },
+    {
+      "image": "refresh-and-reboot.png",
+      "text": "refresh and reboot"
+    }
+  ],
+  "lunch": [
+    {
+      "image": "connect-with-someone.png",
+      "text": "connect with someone"
+    },
+    {
+      "image": "do-some-exercise.png",
+      "text": "do some exercise"
+    }
+  ],
+  "evening": [
+    {
+      "image": "end-on-a-high-note.png",
+      "text": "end on a high note"
+    },
+    {
+      "image": "sleep-the-good-sleep.png",
+      "text": "sleep the good sleep"
+    }
+  ]
+}
