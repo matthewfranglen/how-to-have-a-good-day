@@ -1,0 +1,6 @@
+*
+!.gitignore
+!bundle.js
+!bundle.js.map
+!index.html
+!static/*
