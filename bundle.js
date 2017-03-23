@@ -11565,7 +11565,7 @@ exports = module.exports = __webpack_require__(89)(undefined);
 
 
 // module
-exports.push([module.i, "body {\n  padding: 0;\n  margin: 0;\n\n  font-family: 'Baloo Bhaina', cursive;\n  font-size: 56px;\n  font-border: 1px;\n  text-shadow: -1px 0 #212121, 0 1px #212121, 1px 0 #212121, 0 -1px #212121;\n  color: #fff9c4;\n}\ndiv {\n  width: 100%;\n  height: 100vh;\n}\n\n.home,\n.tile {\n  width: 100%;\n  height: 100vh;\n}\n\n.tile {\n  background-size: cover;\n  position: relative;\n}\n\n.text {\n  position: absolute;\n  top: 50%;\n  transform: translate(0, -50%);\n\n  width: 100%;\n  text-align: center;\n}\n", ""]);
+exports.push([module.i, "body {\n  padding: 0;\n  margin: 0;\n\n  font-family: 'Baloo Bhaina', cursive;\n  font-size: 56px;\n  font-border: 1px;\n  text-shadow: -1px 0 #212121, 0 1px #212121, 1px 0 #212121, 0 -1px #212121;\n  color: #fff9c4;\n}\ndiv {\n  width: 100%;\n  height: 100vh;\n}\n\n.home,\n.tile {\n  width: 100%;\n  height: 100vh;\n}\n\n.tile {\n  background: no-repeat center center fixed;\n  -webkit-background-size: cover;\n  -moz-background-size: cover;\n  -o-background-size: cover;\n  background-size: cover;\n\n  position: relative;\n}\n\n.text {\n  position: absolute;\n  top: 50%;\n  transform: translate(0, -50%);\n\n  width: 100%;\n  text-align: center;\n}\n", ""]);
 
 // exports
 
